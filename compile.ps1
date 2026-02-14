@@ -1,0 +1,1 @@
+C:\Windows\Microsoft.NET\Framework64\v4.0.30319\csc.exe /target:winexe /win32icon:app.ico /resource:sys-hidplus-client-lite-2048x2048.png,logo.png /out:sys-hidplus-client-lite.exe sys-hidplus-client-lite.cs
