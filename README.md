@@ -1,5 +1,9 @@
 # sys-hidplus-client-lite
 
+<p align="center">
+  <img src="sys-hidplus-client-lite-2048x2048.png" alt="sys-hidplus-client-lite logo" width="220" />
+</p>
+
 Lightweight Windows GUI client for sys-hidplus.
 
 - Uses XInput controllers (Xbox-compatible).
